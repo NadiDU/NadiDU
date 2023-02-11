@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA" width="180](https://github.com/NadiDU/NadiDU/blob/main/YBU4.gif)"/>
+  <img src="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA" width="180](https://github.com/NadiDU/NadiDU/blob/main/YBU4.gif"/>
 </div>
 
 <div id="badges" align="center">
