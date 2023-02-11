@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://drive.google.com/file/d/1Lud4xiA63n8r6wWLq1mXF6TcWS9btsOM/view?usp=share_link" width="180"/>
+  <img src="https://drive.google.com/file/d/1Lud4xiA63n8r6wWLq1mXF6TcWS9btsOM/view?usp=share_link](https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA" width="180"/>
 </div>
 
 <div id="badges" align="center">
@@ -12,8 +12,9 @@
   
 </div>
 <div id="badges" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=600&pause=500&color=0d491b&center=true&vCenter=true&width=455&height=60&lines=I%E2%80%99m+a+QA+Engineer;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=600&pause=500&color=#177a2e&center=true&vCenter=true&width=455&height=60&lines=I%E2%80%99m+a+QA+Engineer;" alt="Typing SVG" /></a>
 </div>
+
 ## :man_technologist: About Me:
 Motivated, stress-resistant person with
 experience in teamwork and experience in
@@ -55,10 +56,6 @@ Engineer.
     <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/android_studio.png" title="Android_studio" alt="Android_studio" width="50" height="50"/>
   </a>
 
-      <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/DBeaver.png" title="Dbeaver" alt="Dbeaver" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/vscode.png" title="VS_code" alt="VS_code" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/swagger.png" title="Swagger" alt="Swagger" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Jira.png" title="Jira" alt="Jira" width="50" height="50"/>
       
   
   <h5>These icons are clickable.</h5>
