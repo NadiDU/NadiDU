@@ -21,11 +21,14 @@ experience in teamwork and experience in
 problem solving under time pressure. I believe
 that these qualities help me in my job as a QA
 Engineer.
+I have commercial experience in testing mobile and web applications.
 
 ## <img src = "https://cdn-icons-png.flaticon.com/512/6171/6171939.png" width="30" height="30"/> Soft skills:
-- Good communication and good teamwork skills; 
-- High level of time management;
-- Ability to adapt and attention on details, work with necessary information; 
+- Сommunication skills;
+- Teamwork skills; 
+- Time management skills;
+- Ability to adapt and attention on details; 
+- Work with necessary information;
 - Always looking to gain new knowledge;
 - Self-motivated and purposeful.
 ## :wrench: Technologies & Tools:
