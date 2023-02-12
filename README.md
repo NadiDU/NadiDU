@@ -24,13 +24,13 @@ Engineer.
 I have experience in commercial projects in testing mobile and web applications.
 
 ## <img src = "https://cdn-icons-png.flaticon.com/512/6171/6171939.png" width="30" height="30"/> Soft skills:
-- Сommunication skills;
-- Teamwork skills; 
-- Time management skills;
-- Ability to adapt and attention on details; 
-- Work with necessary information;
-- Always looking to gain new knowledge;
-- Self-motivated and purposeful.
+- Сommunication skills
+- Teamwork skills 
+- Time management skills
+- Ability to adapt and attention on details 
+- Work with necessary information
+- Always looking to gain new knowledge
+- Self-motivated and purposeful
 ## :wrench: Technologies & Tools:
 
 <div>
