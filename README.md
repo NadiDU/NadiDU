@@ -21,7 +21,7 @@ experience in teamwork and experience in
 problem solving under time pressure. I believe
 that these qualities help me in my job as a QA
 Engineer.
-I have commercial experience in testing mobile and web applications.
+I have experience in commercial projects in testing mobile and web applications.
 
 ## <img src = "https://cdn-icons-png.flaticon.com/512/6171/6171939.png" width="30" height="30"/> Soft skills:
 - Сommunication skills;
