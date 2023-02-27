@@ -48,25 +48,25 @@ I have experience in commercial projects in testing mobile and web applications.
     <img src="https://github.com/NadiDU/NadiDU/blob/main/git.png?raw=true" title="Git" alt="Git" width="50" height="50"/></a>  
   </a>
   <a href="https://github.com/NadiDU/Charles">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Charles_proxy.png" title="Charles_proxy" alt="Charles_proxy" width="50" height="50"/></a> 
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/Charles_proxy.png?raw=true" title="Charles_proxy" alt="Charles_proxy" width="50" height="50"/></a> 
   </a>
   <a href="https://github.com/NadiDU/Postman">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Postman.png" title="Postman" alt="Postman" width="50" height="50"/></a>
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/Postman.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
   <a href="https://github.com/NadiDU/JavaScript">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/javascript.png" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/javascript.png?raw=true" title="JavaScript" alt="JavaScript" width="50" height="50"/>
   </a>
   <a href="https://github.com/NadiDU/DevTools">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/chrome_dev_browser.png" title="Chrome-DevTools" alt="Chrome-DevTools" width="50" height="50"/>
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/chrome_dev_browser.png?raw=true" title="Chrome-DevTools" alt="Chrome-DevTools" width="50" height="50"/>
   </a>
     <a href="https://github.com/NadiDU/SQL">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/sql.png" title="SQL" alt="SQL" width="50" height="50"/>
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/sql.png?raw=true" title="SQL" alt="SQL" width="50" height="50"/>
   </a>
   <a href="https://github.com/NadiDU/Git">
     <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/git_branch.png" title="Git_branch" alt="Git_branch" width="50" height="50"/>
   </a>
   <a href="https://github.com/NadiDU/Mobile-testing">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/android_studio.png" title="Android_studio" alt="Android_studio" width="50" height="50"/>
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/Mobile.png?raw=true" title="Android_studio" alt="Android_studio" width="50" height="50"/>
   </a>
 
       
