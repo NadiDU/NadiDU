@@ -10,9 +10,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <div id="badges" align="center">
-  <a href="https://https://www.canva.com/design/DAFbwFUCenc/l10i66dn6mcBabi8e0ATcA/view?utm_content=DAFbwFUCenc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="My CV Badge"/>
-  </a>
+  
   
 </div>
 <div id="badges" align="center">
