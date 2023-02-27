@@ -9,7 +9,7 @@
   <a href="https://t.me/NadyaDurina">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1KJX2QFHiWGG08wcyyRLIlc4_hHiIXF0r/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1M8hJz6-VLlmBmcMFIxRIATWLnRl7HYYJ/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-blue?style=for-the-badge&logo=CV&logoColor=white" alt="CV Badge"/>
   </a>
   <div id="badges" align="center">
