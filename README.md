@@ -70,7 +70,6 @@ I have experience in commercial projects in testing mobile and web applications.
   </a>
 
       
-  
   <h5>These icons are clickable.</h5>
 </div>
 
