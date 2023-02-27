@@ -63,7 +63,7 @@ I have experience in commercial projects in testing mobile and web applications.
     <img src="https://github.com/NadiDU/NadiDU/blob/main/sql.png?raw=true" title="SQL" alt="SQL" width="50" height="50"/>
   </a>
   <a href="https://github.com/NadiDU/Git">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/git_branch.png" title="Git_branch" alt="Git_branch" width="50" height="50"/>
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/git_branch.png?raw=true title="Git_branch" alt="Git_branch" width="50" height="50"/>
   </a>
   <a href="https://github.com/NadiDU/Mobile-testing">
     <img src="https://github.com/NadiDU/NadiDU/blob/main/android_studio.png?raw=true" title="Android_studio" alt="Android_studio" width="50" height="50"/>
