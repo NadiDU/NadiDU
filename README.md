@@ -45,7 +45,7 @@ I have experience in commercial projects in testing mobile and web applications.
 <div>
   
   <a href="https://github.com/NadiDU/Terminal-Linux">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/git.png" title="Git" alt="Git" width="50" height="50"/></a>  
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/git.png?raw=true" title="Git" alt="Git" width="50" height="50"/></a>  
   </a>
   <a href="https://github.com/NadiDU/Charles">
     <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Charles_proxy.png" title="Charles_proxy" alt="Charles_proxy" width="50" height="50"/></a> 
