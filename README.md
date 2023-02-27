@@ -66,9 +66,30 @@ I have experience in commercial projects in testing mobile and web applications.
     <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/git_branch.png" title="Git_branch" alt="Git_branch" width="50" height="50"/>
   </a>
   <a href="https://github.com/NadiDU/Mobile-testing">
-    <img src="https://github.com/NadiDU/NadiDU/blob/main/Mobile.png?raw=true" title="Android_studio" alt="Android_studio" width="50" height="50"/>
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/android_studio.png?raw=true" title="Android_studio" alt="Android_studio" width="50" height="50"/>
   </a>
-
+   </a>
+  <a href="https://github.com/NadiDU/JavaScript">
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/vscode.png?raw=true" title="Android_studio" alt="Android_studio" width="50" height="50"/>
+  </a>
+ <a href="https://github.com/NadiDU/SQL">
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/DBeaver.png?raw=true" alt="Android_studio" width="50" height="50"/>
+  </a>
+  <a href=" ">
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/JIRA.png?raw=true" alt="Android_studio" width="50" height="50"/>
+  </a>
+  <a href=" ">
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/swagger.png?raw=true" width="50" height="50"/>
+  </a>
+  <a href=" ">
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/web_services.png?raw=true" width="50" height="50"/>
+  </a>
+   <a href=" ">
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/jmeter.png?raw=true" width="50" height="50"/>
+  </a>
+   <a href=" ">
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/json.png?raw=true" width="50" height="50"/>
+  </a>
       
   <h5>These icons are clickable.</h5>
 </div>
