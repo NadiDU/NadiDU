@@ -21,7 +21,7 @@
 </div>
 
 <div id="badges" align="center">
-## :man_technologist: About Me:
+:man_technologist: About Me:
 Motivated, stress-resistant person with
 experience in teamwork and experience in
 problem solving under time pressure. I believe
