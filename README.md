@@ -12,7 +12,7 @@
   <a href="https://drive.google.com/file/d/1M8hJz6-VLlmBmcMFIxRIATWLnRl7HYYJ/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-blue?style=for-the-badge&logo=CV&logoColor=white" alt="CV Badge"/>
   </a>
-  <div id="badges" align="center">
+  
   
   
 </div>
@@ -20,6 +20,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=600&pause=500&color=177a2e&center=true&vCenter=true&width=455&height=60&lines=I%E2%80%99m+a+QA+Engineer;" alt="Typing SVG" /></a>
 </div>
 
+<div id="badges" align="center">
 ## :man_technologist: About Me:
 Motivated, stress-resistant person with
 experience in teamwork and experience in
@@ -27,18 +28,22 @@ problem solving under time pressure. I believe
 that these qualities help me in my job as a QA
 Engineer.
 I have experience in commercial projects in testing mobile and web applications.
+</div>
 
 ## <img src = "https://cdn-icons-png.flaticon.com/512/6171/6171939.png" width="30" height="30"/> Soft skills:
-- Сommunication skills
-- Teamwork skills 
-- Time management skills
-- Ability to adapt and attention on details 
-- Work with necessary information
-- Always looking to gain new knowledge
-- Self-motivated and purposeful
+- Communication
+- Teamwork
+- Critical thinking
+- Decision making
+- Knowledge management
+- Working in uncertainty mode
+- Lean manufacturing
+- Environmental thinking
+- Introspection and self-reflection
 ## :wrench: Technologies & Tools:
 
 <div>
+  
   <a href="https://github.com/NadiDU/Terminal-Linux">
     <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/git.png" title="Git" alt="Git" width="50" height="50"/></a>  
   </a>
