@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/CV-blue?style=for-the-badge&logo=CV&logoColor=white" alt="CV Badge"/>
   </a>
   
-  
+ 
   
 </div>
 <div id="badges" align="center">
