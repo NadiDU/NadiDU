@@ -78,12 +78,7 @@ I have experience in commercial projects in testing mobile and web applications.
   <a href=" ">
     <img src="https://github.com/NadiDU/NadiDU/blob/main/JIRA.png?raw=true" alt="Android_studio" width="50" height="50"/>
   </a>
-  <a href=" ">
-    <img src="https://github.com/NadiDU/NadiDU/blob/main/swagger.png?raw=true" width="50" height="50"/>
-  </a>
-  <a href=" ">
-    <img src="https://github.com/NadiDU/NadiDU/blob/main/web_services.png?raw=true" width="50" height="50"/>
-  </a>
+
    <a href=" ">
     <img src="https://github.com/NadiDU/NadiDU/blob/main/jmeter.png?raw=true" width="50" height="50"/>
   </a>
