@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/CV-blue?style=for-the-badge&logo=CV&logoColor=white" alt="CV Badge"/>
   </a>
   
-  
 </div>
 <div id="badges" align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=600&pause=500&color=177a2e&center=true&vCenter=true&width=455&height=60&lines=I%E2%80%99m+a+QA+Engineer;" alt="Typing SVG" /></a>
