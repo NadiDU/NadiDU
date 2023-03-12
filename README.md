@@ -10,7 +10,10 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://drive.google.com/file/d/1843NJtTi3f1Gef9Cj2DjejeddudcfAM_/view?usp=sharing">
-    <img src="https://img.shields.io/badge/CV-blue?style=for-the-badge&logo=CV&logoColor=white" alt="CV Badge"/>
+    <img src="https://img.shields.io/badge/CV.eng-blue?style=for-the-badge&logo=CV&logoColor=white" alt="CV Badge"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1SJJLQHdt2F1mKuEDlXhPNfHPPTPzjJ34/view?usp=sharing">
+    <img src="https://img.shields.io/badge/CV.Ru-blue?style=for-the-badge&logo=CV&logoColor=white" alt="CV Badge"/>
   </a>
   
 </div>
