@@ -73,9 +73,7 @@ I have experience in commercial projects in testing mobile and web applications.
   <a href="https://github.com/NadiDU/JavaScript">
     <img src="https://github.com/NadiDU/NadiDU/blob/main/vscode.png?raw=true" title="Android_studio" alt="Android_studio" width="50" height="50"/>
   </a>
- <a href="https://github.com/NadiDU/SQL">
-    <img src="https://github.com/NadiDU/NadiDU/blob/main/DBeaver.png?raw=true" alt="Android_studio" width="50" height="50"/>
-  </a>
+
   <a href=" ">
     <img src="https://github.com/NadiDU/NadiDU/blob/main/JIRA.png?raw=true" alt="Android_studio" width="50" height="50"/>
   </a>
