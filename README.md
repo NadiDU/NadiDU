@@ -42,7 +42,6 @@ I have experience in commercial projects in testing mobile and web applications.
 - Environmental thinking
 - Introspection and self-reflection
 ## :wrench: Technologies & Tools:
-
 <div>
   
   <a href="https://github.com/NadiDU/Terminal-Linux">
