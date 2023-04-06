@@ -47,6 +47,9 @@ I have experience in commercial projects in testing mobile and web applications.
   <a href="https://github.com/NadiDU/Postman">
     <img src="https://github.com/NadiDU/NadiDU/blob/main/Postman.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
+  <a href="https://github.com/NadiDU/Postman">
+    <img src="[https://github.com/NadiDU/NadiDU/blob/main/Postman.png?raw=true" alt="Postman](https://github.com/NadiDU/NadiDU/blob/main/swagger.png)" width="50" height="50"/></a>
+  </a>
   <a href="https://github.com/NadiDU/JavaScript">
     <img src="https://github.com/NadiDU/NadiDU/blob/main/javascript.png?raw=true" title="JavaScript" alt="JavaScript" width="50" height="50"/>
   </a>
