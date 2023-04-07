@@ -36,9 +36,10 @@ I have experience in commercial projects in testing mobile and web applications.
 - Environmental thinking
 - Introspection and self-reflection
 ## :wrench: Technologies & Tools:
+
+
 <div>
-  
-  <a href="https://github.com/NadiDU/Terminal-Linux">
+   <a href="https://github.com/NadiDU/Terminal-Linux">
     <img src="https://github.com/NadiDU/NadiDU/blob/main/git.png?raw=true" title="Git" alt="Git" width="50" height="50"/></a>  
   </a>
   <a href="https://github.com/NadiDU/Charles">
