@@ -30,7 +30,6 @@ that these qualities help me in my job as a QA
 Engineer.
 I have experience in commercial projects in testing mobile and web applications.
 </div>
-
 ## <img src = "https://cdn-icons-png.flaticon.com/512/6171/6171939.png" width="30" height="30"/> Soft skills:
 - Communication
 - Teamwork
