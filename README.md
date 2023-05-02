@@ -2,6 +2,7 @@
   <img src="https://github.com/NadiDU/NadiDU/blob/main/YBU4.gif"/>
 </div>
 <div id="badges" align="center">
+  
   <a href="https://www.linkedin.com/in/nadezhdadurina/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
