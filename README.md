@@ -6,13 +6,16 @@
   <a href="https://www.linkedin.com/in/nadezhdadurina/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
   <a href="https://t.me/NadyaDurina">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-   </a>
+  
+  
   <a href="https://drive.google.com/file/d/1p-CeBG_KDk2pJDMgCuursvF21aJvNIAj/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV.ru-blue?style=for-the-badge" />
   </a>
+  
   <a href="https://drive.google.com/file/d/1843NJtTi3f1Gef9Cj2DjejeddudcfAM_/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV.eng-blue?style=for-the-badge" />
   </a>
