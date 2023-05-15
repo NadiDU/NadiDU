@@ -13,11 +13,11 @@
   
   
   <a href="https://drive.google.com/file/d/1p-CeBG_KDk2pJDMgCuursvF21aJvNIAj/view?usp=sharing">
-    <img src="https://img.shields.io/badge/CV.ru-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/CV.ru-blue?style=for-the-badge"/>
   </a>
   
   <a href="https://drive.google.com/file/d/1843NJtTi3f1Gef9Cj2DjejeddudcfAM_/view?usp=sharing">
-    <img src="https://img.shields.io/badge/CV.eng-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/CV.eng-blue?style=for-the-badge"/>
   </a>
  
  
